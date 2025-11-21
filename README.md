@@ -43,26 +43,11 @@ I’m currently working on strengthening my backend skills to become a **Full St
 
 ---
 
-# 📌 Featured Projects
-
-## 🔹 iLMS — Student Application Management System  
-A complete academic submissions & registration system:  
-✔ Secure file upload  
-✔ PDF generator  
-✔ Multi-role dashboard  
-✔ RESTful API  
-✔ Review & Approval workflow  
-
-🔗 **Backend Repo:**  
-➡ https://github.com/EyadAbduljalil/lms_project_BackEnd
-
----
-
 # 🏆 Certifications
 - **CS50x — Harvard University**
-- **HTML / CSS / JavaScript / TypeScript — MaharaTech**
-- **UX Design — Zero to Hero (Abdelrahman Gamal)**
-- **JavaScript — Godzilla**
+- **HTML / CSS / JavaScript — MaharaTech**
+- **UX Design _ Edrak **
+- **JavaScript — MaharaTech**
 
 ---
 
