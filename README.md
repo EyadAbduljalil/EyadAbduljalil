@@ -1,53 +1,62 @@
 # EyadAbduljalil
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f172a,100:1e293b&height=260&section=header&text=Eyad%20Abduljalil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f172a,100:1e293b&height=260&section=header&text=Eyad%20Abduljalil&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <!-- Typing Intro -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Front-End+Developer;Business+Information+Systems+Student;Future+Full+Stack+Developer;Passionate+About+UI%2FUX+%26+Web+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3EB0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Frontend+Specialist;Backend+Node.js+Developer;Business+Information+Systems+Student;Loves+Building+Modern+Web+Apps" />
 </h2>
 
 ---
 
 # 👋 About Me
-I’m **Eyad Abduljalil**, a passionate **Front-End Developer** and **BIS student** at Nile Academy (Egypt).  
-Born in Yemen 🇾🇪, building my tech career in Egypt 🇪🇬.
+I’m **Eyad Abduljalil**, a dedicated **Full Stack Developer** with strong experience in  
+**Frontend / Backend / UI/UX**, currently studying **Business Information Systems** at Nile Academy.
 
-I’m currently working on strengthening my backend skills to become a **Full Stack Developer in 2025**.
+Originally from Yemen 🇾🇪 and building my tech career in Egypt 🇪🇬.  
+I love crafting beautiful, efficient, secure, and modern web applications.
+
+I focus on:
+- ⚡ Clean Code  
+- ⚙️ Scalable Backends  
+- 🎨 Beautiful Interfaces  
+- 🔐 Secure & Reliable Systems  
 
 ---
 
-# 🚀 Skills & Technologies
+# 🧠 Tech Stack
 
-### 💻 Front-End Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+## 💻 Frontend
+<p style="margin-top: -10px;">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,tailwind,bootstrap" />
 </p>
 
-### 🎨 UI/UX & Design
-<p>
+## 🛠 Backend & Database
+<p style="margin-top: -10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+## 🎨 UI/UX & Design
+<p style="margin-top: -10px;">
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🛠 Backend (Learning & Building)
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### ⚙️ Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,notion" />
+## ⚙️ Tools & Workflow
+<p style="margin-top: -10px;">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,notion,linux" />
 </p>
 
 ---
 
-# 🏆 Certifications
+# 🎓 Certifications
 - **CS50x — Harvard University**
 - **HTML / CSS / JavaScript — MaharaTech**
-- **UX Design _ Edrak **
 - **JavaScript — MaharaTech**
+- **UX Design — Edraak**
+- **TypeScript — MaharaTech**
 
 ---
 
@@ -80,15 +89,15 @@ I’m currently working on strengthening my backend skills to become a **Full St
 
 ---
 
-# 🏅 GitHub Trophy
+# 🏅 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EyadAbduljalil&theme=darkhub&column=6&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EyadAbduljalil&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
 
-# 🧩 Fun Quote
-> *“Great developers are not born — they build themselves, one commit at a time.”*
+# ✨ Developer Quote
+> *“Code is not just what you write — it’s what you make possible.”*
 
 ---
 
