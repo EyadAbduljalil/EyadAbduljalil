@@ -14,7 +14,7 @@
 
 # 👋 About Me
 I’m **Eyad Abduljalil**, a dedicated **Full Stack Developer** with strong experience in  
-**Frontend / Backend / UI/UX**, currently studying **Business Information Systems** at Nile Academy.
+**Frontend / Backend / UI/UX**, currently studying **Business Information Systems**.
 
 Originally from Yemen 🇾🇪 and building my tech career in Egypt 🇪🇬.  
 I love crafting beautiful, efficient, secure, and modern web applications.
